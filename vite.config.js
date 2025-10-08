@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: '/frank-mens-wear/',
 })
